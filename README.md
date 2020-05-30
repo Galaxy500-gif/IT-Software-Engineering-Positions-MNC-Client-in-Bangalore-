@@ -1,9 +1,11 @@
 # IT & Software Engineering Positions @ MNC Client in Bangalore !
 
 
-Principal Infrastructure #DBA (#SQL)
+# Principal Infrastructure #DBA (#SQL)
 
-Senior #Scala developer / Senior Scala development engineer 
+# Senior Scala developer / Senior Scala development engineer ( #scala #MonoDB )
+ 
+# Java Architect ( #Java #Hibernate #HTML #CSS #Javascript/ #Angular #AngularJS )
 
 
 Please visit our blog to have a detailed look at the positions available https://galaxyinc5.blogspot.com 
